@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AbdurasulDj
-- 👀 I’m interested in web development and in tensoflow
-- 🌱 I’m currently learning reactJs, typeScript
-- 💞️ I’m looking to collaborate on any interesting projects 
-- 📫 Just send an email to <abdurasulac@gmail.com> in order to reach me 
+- 👋 Hi, I’m ACeK'
+- 👀 I’m interested in web development and cybersecurity
+- 🌱 I’m currently lost in HackTheBox
+- 💞️ I’m looking to collaborate on any interesting projects
 
 <!---
 AbdurasulDj/AbdurasulDj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
